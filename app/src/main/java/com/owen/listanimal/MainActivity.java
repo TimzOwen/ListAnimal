@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 // Step 5 sol 5
                 //attach each element clicked to the index and show a pop up message both in french and English
-                String message = " you selected" + animalsAdapater.getItem(position);
+                String message = getString(R.string.message) + " " +  animalsAdapater.getItem(position);
                 Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
             }
         });

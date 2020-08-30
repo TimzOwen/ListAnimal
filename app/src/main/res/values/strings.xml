@@ -15,4 +15,5 @@
         <item>@string/antelope</item>
         <item>@string/monkey</item>
     </string-array>
+    <string name="message">You selected</string>
 </resources>

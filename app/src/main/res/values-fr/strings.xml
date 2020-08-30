@@ -8,4 +8,5 @@
     <string name="dog">chienne</string>
     <string name="antelope">antilope</string>
     <string name="monkey">guenon</string>
+    <string name="message">tu as sélectionné</string>
 </resources>
