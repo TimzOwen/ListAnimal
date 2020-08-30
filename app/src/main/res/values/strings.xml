@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">ListAnimal</string>
+    <string name="select_animals">Select Animals</string>
+    <string name="lion">Lion</string>
+    <string name="elephant">Elephant</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="antelope">Antelope</string>
+    <string name="monkey">Monkey</string>
+    <string-array name="animals_array">
+        <item>@string/lion</item>
+        <item>@string/elephant</item>
+        <item>@string/cat</item>
+        <item>@string/dog</item>
+        <item>@string/antelope</item>
+        <item>@string/monkey</item>
+    </string-array>
 </resources>

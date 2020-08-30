@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListAnimal</string>
+    <string name="select_animals">sélectionner un animal</string>
+    <string name="lion">lionne</string>
+    <string name="elephant">l\'éléphant</string>
+    <string name="cat">chatte</string>
+    <string name="dog">chienne</string>
+    <string name="antelope">antilope</string>
+    <string name="monkey">guenon</string>
+</resources>
